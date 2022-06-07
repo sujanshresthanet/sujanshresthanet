@@ -1,6 +1,6 @@
 Hey 👋
 
-I am Sujan SHreshta. Web developer from Nepal and currently working as a Backend developer. Despite working in the backend, I am very much enthusiastic about frontend technologies. My expertise includes PHP, Laravel, Wordpress, Drupal, JavaScript, React.js, MySQL. Additionally, I like to contribute to the open source community and have several published libraries and add-ons.
+I am Sujan Shrestha. Web developer from Nepal and currently working as a Backend developer. Despite working in the backend, I am very much enthusiastic about frontend technologies. My expertise includes PHP, Laravel, Wordpress, Drupal, JavaScript, React.js, MySQL. Additionally, I like to contribute to the open source community and have several published libraries and add-ons.
 
 ![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=for-the-badge&logo=PHP)
 ![Laravel](https://img.shields.io/badge/-Laravel-%232c3e50?style=for-the-badge&logo=laravel)
