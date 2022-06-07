@@ -7,16 +7,22 @@ I am Sujan Shrestha. Web developer from Nepal and currently working as a Backend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=for-the-badge&logo=javascript)
 ![React.js](https://img.shields.io/badge/-React.js-%232c3e50?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-%232c3e50?style=for-the-badge&logo=nodedotjs)
-![Nest.js](https://img.shields.io/badge/-Nest.js-%232c3e50?style=for-the-badge&logo=nestjs)
+![Codeigniter](https://img.shields.io/badge/-Codeigniter-%232c3e50?style=for-the-badge&logo=CODEIGNITER)
 ![jQuery](https://img.shields.io/badge/-jQuery-%232c3e50?style=for-the-badge&logo=jQuery)
 ![MySQL](https://img.shields.io/badge/-MySQL-%232c3e50?style=for-the-badge&logo=MySQL)
 ![Git](https://img.shields.io/badge/-Git-%232c3e50?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-%232c3e50?style=for-the-badge&logo=docker)
 ![CSS](https://img.shields.io/badge/-CSS-%232c3e50?style=for-the-badge&logo=css3)
-![Ant Design](https://img.shields.io/badge/-Antd-%232c3e50?style=for-the-badge&logo=ant-design)
-![Tailwind](https://img.shields.io/badge/-Tailwind-%232c3e50?style=for-the-badge&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%232c3e50?style=for-the-badge&logo=Bootstrap)
 ![Drupal](https://img.shields.io/badge/-DRUPAL-%232c3e50?style=for-the-badge&logo=DRUPAL)
+![Wordpress](https://img.shields.io/badge/-Wordpress-%232c3e50?style=for-the-badge&logo=WORDPRESS)
+![Paypal](https://img.shields.io/badge/-paypal-%232c3e50?style=for-the-badge&logo=PAYPAL)
+![Mailchimp](https://img.shields.io/badge/-mailchimp-%232c3e50?style=for-the-badge&logo=MAILCHIMP)
+
+
+
+
+
+
 
 ## Portfolio
 
