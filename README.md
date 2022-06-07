@@ -23,16 +23,9 @@ I am Sujan SHreshta. Web developer from Nepal and currently working as a Backend
 [www.sujanshrestha.net](https://www.sujanshrestha.net)
 
 ## Reach Me
-
-<a href="https://twitter.com/sujanshrestha_net">
-  <img align="left" alt="Twitter" width="22px" src="./assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/showcase/sujanshrestha-net">
-  <img align="left" alt="LinkedIn" width="22px" src="./assets/linkedin.svg" />
-</a>
-<a href="https://www.facebook.com/sujanshrestha.net">
-  <img align="left" alt="Facebook" width="22px" src="./assets/facebook.svg" />
-</a>
+<p><a href="https://twitter.com/sujanshrestha_net" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/sujanshrestha/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
+<a href="https://www.facebook.com/sujanshrestha.net" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-facebook-%232c3e50?style=for-the-badge&logo=Facebook&logoColor=white"  height="30px"/></a>
+</p>
 
 <br/>
 <br/>
@@ -45,10 +38,8 @@ I am Sujan SHreshta. Web developer from Nepal and currently working as a Backend
 <p align="center">
   <a href="https://www.buymeacoffee.com/sujanshresthanet" target="_blank">
     <img
-      src="./assets/bmc-button.png"
+  src="https://camo.githubusercontent.com/28aae05a0fba45679e8e27d90609601e249b64a5fe30dfef05495de4f4e318d4/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67"
       alt="Buy Me A Coffee"
-      height="60" 
-      width="217"
     >
   </a>
 </p>
