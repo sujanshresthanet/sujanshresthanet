@@ -25,6 +25,12 @@ I am Sujan Shrestha. Web developer from Nepal and currently working as a Backend
 
 
 ## Portfolio 
+- 🔭 Check out my Drupal Profile: [Sujan Shrestha](https://www.drupal.org/u/sujan-shrestha)
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2022 Goals: Learn more about web3
+- ⚡ Fun fact: I love coding
+  
 [www.sujanshrestha.net](https://www.sujanshrestha.net)<br>
 [Drupal Developer](https://www.drupal.org/u/sujan-shrestha)
 <br>
