@@ -1,4 +1,4 @@
-Hey 👋
+## Hey there 👋
 
 I am Sujan Shrestha. Web developer from Nepal and currently working as a Backend developer. Despite working in the backend, I am very much enthusiastic about frontend technologies. My expertise includes PHP, Laravel, Wordpress, Drupal, JavaScript, React.js, MySQL. Additionally, I like to contribute to the open source community and have several published libraries and add-ons.
 
@@ -24,12 +24,14 @@ I am Sujan Shrestha. Web developer from Nepal and currently working as a Backend
 
 
 
-## Portfolio
-
+## Portfolio 
 [www.sujanshrestha.net](https://www.sujanshrestha.net)<br>
 [Drupal Developer](https://www.drupal.org/u/sujan-shrestha)
+<br>
+<a href="https://visitor-badge.laobi.icu/badge?page_id=sujanshresthanet.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=sujanshresthanet.visitor-badge&title=Visits" align="middle" alt="Visits"></a> 
 
 ## Reach Me
+Feel free to contact me :yum:
 <p><a href="https://twitter.com/sujanshrestha_net" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/sujan-shrestha-16b7909b" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
 <a href="https://www.facebook.com/sujanshrestha.net" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-facebook-%232c3e50?style=for-the-badge&logo=Facebook&logoColor=white"  height="30px"/></a>
 <a href="https://drupal.org/u/sujan-shrestha" target="_blank"><img alt="Drupal" src="https://img.shields.io/badge/-drupal-blue?style=for-the-badge&logo=Drupal&logoColor=white"  height="30px"/></a>
@@ -39,10 +41,15 @@ I am Sujan Shrestha. Web developer from Nepal and currently working as a Backend
 <br/>
 <br/>
 
+## GitHub Stats
 <p align="center">
 <a href="http://www.github.com/sujanshresthanet"><img src="https://github-readme-stats.vercel.app/api?username=sujanshresthanet&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="sujanshresthanet's GitHub stats" /></a>
- </p>
+  </p>
+ <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 <p align="center">
  <a href="https://www.buymeacoffee.com/sujanshrestha"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=sujanshrestha&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 </p>
+
+
+
