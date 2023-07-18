@@ -49,13 +49,15 @@ Feel free to contact me :yum:
 
 ## GitHub Stats
 <p align="center">
-<a href="http://www.github.com/sujanshresthanet"><img src="https://github-readme-stats.vercel.app/api?username=sujanshresthanet&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="sujanshresthanet's GitHub stats" /></a>
+<a href="https://github.com/sujanshresthanet/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=sujanshresthanet&theme=dark&show_icons=true" alt="sujanshresthanet's GitHub stats"  /></a>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=sujanshresthanet&theme=highcontrast&hide_border=true" /></a>
   </p>
  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 <p align="center">
  <a href="https://www.buymeacoffee.com/sujanshrestha"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=sujanshrestha&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 </p>
+
 
 
 
