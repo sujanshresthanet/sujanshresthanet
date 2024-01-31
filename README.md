@@ -31,7 +31,7 @@ I am Sujan Shrestha. Web developer from Nepal and currently working as a Backend
 - 🥅 2023 Goals: Learn more about web3
 - ⚡ Fun fact: I love coding
   
-[www.sujanshrestha.net](https://www.sujanshrestha.net)<br>
+[www.sujanshrestha.com](https://www.sujanshrestha.com)<br>
 [Drupal Developer](https://www.drupal.org/u/sujan-shrestha)
 <br>
 <a href="https://visitor-badge.laobi.icu/badge?page_id=sujanshresthanet.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=sujanshresthanet.visitor-badge&title=Visits" align="middle" alt="Visits"></a> 
