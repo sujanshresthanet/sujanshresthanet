@@ -2,6 +2,7 @@
 
 I am Sujan Shrestha. Web developer from Nepal and currently working as a Backend developer. Despite working in the backend, I am very much enthusiastic about frontend technologies. My expertise includes PHP, Laravel, Wordpress, Drupal, JavaScript, React.js, MySQL. Additionally, I like to contribute to the open source community and have several published libraries and add-ons.
 
+## Tech Stack 💫
 ![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=for-the-badge&logo=PHP)
 ![Laravel](https://img.shields.io/badge/-Laravel-%232c3e50?style=for-the-badge&logo=laravel)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=for-the-badge&logo=javascript)
@@ -18,17 +19,12 @@ I am Sujan Shrestha. Web developer from Nepal and currently working as a Backend
 ![Paypal](https://img.shields.io/badge/-paypal-%232c3e50?style=for-the-badge&logo=PAYPAL)
 ![Mailchimp](https://img.shields.io/badge/-mailchimp-%232c3e50?style=for-the-badge&logo=MAILCHIMP)
 
+![Sujan's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sujanshresthanet&layout=compact&langs_count=8&hide_border=true)
 
-
-
-
-
-
-## Portfolio 
+## Portfolio 📚
 - 🔭 Check out my Drupal Profile: [Sujan Shrestha](https://www.drupal.org/u/sujan-shrestha)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Learn more about web3
 - ⚡ Fun fact: I love coding
   
 [www.sujanshrestha.com](https://www.sujanshrestha.com)<br>
@@ -37,7 +33,7 @@ I am Sujan Shrestha. Web developer from Nepal and currently working as a Backend
 <br>
 <a href="https://visitor-badge.laobi.icu/badge?page_id=sujanshresthanet.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=sujanshresthanet.visitor-badge&title=Visits" align="middle" alt="Visits"></a> 
 
-## Reach Me
+## Reach Me 💡
 Feel free to contact me :yum:
 <p><a href="https://twitter.com/sujanshrestha_net" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/sujan-shrestha-16b7909b" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
 <a href="https://www.facebook.com/sujanshrestha.net" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-facebook-%232c3e50?style=for-the-badge&logo=Facebook&logoColor=white"  height="30px"/></a>
@@ -48,7 +44,7 @@ Feel free to contact me :yum:
 <br/>
 <br/>
 
-## GitHub Stats
+## GitHub Stats 
 <p align="center">
 <a href="https://github.com/sujanshresthanet/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=sujanshresthanet&theme=dark&show_icons=true" alt="sujanshresthanet's GitHub stats"  /></a>
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=sujanshresthanet&theme=highcontrast&hide_border=true" /></a>
