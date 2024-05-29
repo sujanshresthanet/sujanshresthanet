@@ -44,16 +44,16 @@ Feel free to contact me :yum:
 <br/>
 <br/>
 
-## GitHub Stats 
+### ⚙ Github Analytics
 <p align="center">
-<a href="https://github.com/sujanshresthanet/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=sujanshresthanet&theme=dark&show_icons=true" alt="sujanshresthanet's GitHub stats"  /></a>
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=sujanshresthanet&theme=highcontrast&hide_border=true" /></a>
-  </p>
- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-
-<p align="center">
- <a href="https://www.buymeacoffee.com/sujanshrestha"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=sujanshrestha&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=sujanshresthanet&theme=dark&show_icons=true" alt="sujanshresthanet's GitHub stats"  />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=sujanshresthanet&theme=highcontrast&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=sujanshresthanet&theme=darkhub">
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>
+<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=sujanshrestha&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" />
 </p>
+
+
 
 
 
