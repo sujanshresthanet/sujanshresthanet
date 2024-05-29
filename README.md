@@ -46,7 +46,7 @@ Feel free to contact me :yum:
 
 ### ⚙ Github Analytics
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sujanshresthanet&theme=dark&show_icons=true" alt="sujanshresthanet's GitHub stats" width='400'/>
+<img src="https://github-readme-stats.vercel.app/api?username=sujanshresthanet&theme=dark&show_icons=true" alt="sujanshresthanet's GitHub stats" width='376'/>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=sujanshresthanet&theme=highcontrast&hide_border=true" width='400'/>
 <img src="https://github-profile-trophy.vercel.app/?username=sujanshresthanet&theme=darkhub">
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>
