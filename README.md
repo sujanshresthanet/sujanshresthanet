@@ -53,7 +53,7 @@ Feel free to contact me :yum:
 ## GitHub Stats 📟
 
 <p align="center">
- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sujanshresthanet&show_icons=true&theme=apprentice" />
+ <img width="45%" src="https://github-readme-stats.vercel.app/api?username=sujanshresthanet&show_icons=true&theme=apprentice" />
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sujanshresthanet&theme=apprentice" />
 </p>
 
