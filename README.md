@@ -47,22 +47,23 @@ Feel free to contact me :yum:
 ## Github Profile Summary Card 💳
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujanshresthanet&theme=dark"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujanshresthanet&theme=apprentice"/>
 </p>
 
 ## GitHub Stats 📟
 
 <p align="center">
- <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sujanshresthanet&theme=dark" />
- <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujanshresthanet&theme=dark&utcOffset=8" />
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sujanshresthanet&show_icons=true&theme=apprentice" />
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sujanshresthanet&theme=apprentice" />
 </p>
 
 <p align="center">
- <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujanshresthanet&theme=dark" />
- <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujanshresthanet&theme=dark" />
+ <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sujanshresthanet&theme=apprentice" />
+ <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujanshresthanet&theme=apprentice&utcOffset=8" />
 </p>
 
 <p align="center">
- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sujanshresthanet&show_icons=true&theme=dark" />
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sujanshresthanet&theme=dark" />
+ <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujanshresthanet&theme=apprentice" />
+ <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujanshresthanet&theme=apprentice" />
 </p>
+
