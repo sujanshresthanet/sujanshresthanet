@@ -58,8 +58,7 @@ Feel free to contact me :yum:
 </p>
 
 <p align="center">
- <img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sujanshresthanet&theme=apprentice" />
- <img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujanshresthanet&theme=apprentice&utcOffset=8" />
-  <img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujanshresthanet&theme=apprentice" />
+ <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujanshresthanet&theme=apprentice&utcOffset=8" />
+  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujanshresthanet&theme=apprentice" />
 </p>
 
