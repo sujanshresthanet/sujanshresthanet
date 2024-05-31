@@ -19,6 +19,8 @@ I am Sujan Shrestha. Web developer from Nepal and currently working as a Backend
 ![Paypal](https://img.shields.io/badge/-paypal-%232c3e50?style=for-the-badge&logo=PAYPAL)
 ![Mailchimp](https://img.shields.io/badge/-mailchimp-%232c3e50?style=for-the-badge&logo=MAILCHIMP)
 
+<a href="https://visitor-badge.laobi.icu/badge?page_id=sujanshresthanet.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=sujanshresthanet.visitor-badge&title=Visits" align="middle" alt="Visits"></a> 
+
 ![Sujan's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sujanshresthanet&layout=compact&langs_count=8&hide_border=true)
 
 ## Portfolio 📚
@@ -26,16 +28,15 @@ I am Sujan Shrestha. Web developer from Nepal and currently working as a Backend
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love coding
-  
-[www.sujanshrestha.com](https://www.sujanshrestha.com)<br>
-[www.emperyquotes.com](https://www.emperyquotes.com)<br>
-[Drupal Contributor profile](https://www.drupal.org/u/sujan-shrestha)
+- 🌐 Website: [www.sujanshrestha.com](https://www.sujanshrestha.com)
+- 🌐 Website: [www.emperyquotes.com](https://www.emperyquotes.com)
+- 🌐 Drupal Profile: [Drupal Contributor profile](https://www.drupal.org/u/sujan-shrestha)
 <br>
-<a href="https://visitor-badge.laobi.icu/badge?page_id=sujanshresthanet.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=sujanshresthanet.visitor-badge&title=Visits" align="middle" alt="Visits"></a> 
 
 ## Reach Me 💡
 Feel free to contact me :yum:
-<p><a href="https://twitter.com/sujanshrestha_net" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/sujan-shrestha-16b7909b" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
+<p><a href="https://www.linkedin.com/in/sujan-shrestha-16b7909b" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
+<a href="https://twitter.com/sujanshrestha_net" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a>
 <a href="https://www.facebook.com/sujanshrestha.net" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-facebook-%232c3e50?style=for-the-badge&logo=Facebook&logoColor=white"  height="30px"/></a>
 <a href="https://drupal.org/u/sujan-shrestha" target="_blank"><img alt="Drupal" src="https://img.shields.io/badge/-drupal-blue?style=for-the-badge&logo=Drupal&logoColor=white"  height="30px"/></a>
 <a href="https://stackoverflow.com/users/3729352/sujan-shrestha" target="_blank"><img alt="Stackoverflow" src="https://img.shields.io/badge/-stackoverflow-%2323272A?style=for-the-badge&logo=Stackoverflow&logoColor=#EA7139"  height="30px"/></a>
@@ -43,12 +44,6 @@ Feel free to contact me :yum:
 <br/>
 <br/>
 <br/>
-
-## Activity Graph ⚡
-
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujanshresthanet&bg_color=000000&color=fafe10&line=26fde4&point=ffffff&area=true&hide_border=true"/>
-</p>
 
 ## Github Profile Summary Card 💳
 
@@ -72,9 +67,3 @@ Feel free to contact me :yum:
  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sujanshresthanet&show_icons=true&theme=dark" />
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sujanshresthanet&theme=dark" />
 </p>
-
-
-
-
-
-
