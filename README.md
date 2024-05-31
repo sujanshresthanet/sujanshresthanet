@@ -44,12 +44,33 @@ Feel free to contact me :yum:
 <br/>
 <br/>
 
-### Github Analytics ⚡
+## Activity Graph ⚡
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sujanshresthanet&theme=dark&show_icons=true" alt="sujanshresthanet's GitHub stats" width='376'/>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=sujanshresthanet&theme=highcontrast&hide_border=true" width='400'/>
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>
-<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=sujanshrestha&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujanshresthanet&bg_color=000000&color=fafe10&line=26fde4&point=ffffff&area=true&hide_border=true"/>
+</p>
+
+## Github Profile Summary Card 💳
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujanshresthanet&theme=dark"/>
+</p>
+
+## GitHub Stats 📟
+
+<p align="center">
+ <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sujanshresthanet&theme=dark" />
+ <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujanshresthanet&theme=dark&utcOffset=8" />
+</p>
+
+<p align="center">
+ <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujanshresthanet&theme=dark" />
+ <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujanshresthanet&theme=dark" />
+</p>
+
+<p align="center">
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sujanshresthanet&show_icons=true&theme=dark" />
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sujanshresthanet&theme=dark" />
 </p>
 
 
