@@ -42,8 +42,6 @@ Feel free to contact me :yum:
 <a href="https://stackoverflow.com/users/3729352/sujan-shrestha" target="_blank"><img alt="Stackoverflow" src="https://img.shields.io/badge/-stackoverflow-%2323272A?style=for-the-badge&logo=Stackoverflow&logoColor=#EA7139"  height="30px"/></a>
 
 <br/>
-<br/>
-<br/>
 
 ## Github Profile Summary Card 💳
 
