@@ -22,7 +22,7 @@ I am Sujan Shrestha. Web developer from Nepal and currently working as a Backend
 
 <a href="https://visitor-badge.laobi.icu/badge?page_id=sujanshresthanet.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=sujanshresthanet.visitor-badge&title=Visits" align="middle" alt="Visits"></a> 
 
-![Sujan's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sujanshresthanet&layout=compact&langs_count=8&hide_border=true)
+![Sujan's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sujanshresthanet&layout=compact&langs_count=16&hide_border=true)
 
 ## Portfolio 📚
 - 🔭 Check out my Drupal Profile: [Sujan Shrestha](https://www.drupal.org/u/sujan-shrestha)
